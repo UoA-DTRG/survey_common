@@ -1,0 +1,9 @@
+uint8 OK=0
+uint8 SOME_INVALID=1
+
+geometry_msgs/Vector3[] points
+---
+uint8 status
+bool[] valid
+float64[] heights
+float64 mean
