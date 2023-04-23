@@ -1,0 +1,7 @@
+#ifndef __PATH_FOLLOWER_FLAG_BITMASK_H__
+#define __PATH_FOLLOWER_FLAG_BITMASK_H__
+
+#define PATH_FOLLOWER_FLAG_BITMASK_MANDATORY        (1<<0)
+#define PATH_FOLLOWER_FLAG_BITMASK_NOYAW            (1<<1)
+
+#endif

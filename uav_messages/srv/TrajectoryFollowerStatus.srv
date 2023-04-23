@@ -1,0 +1,6 @@
+uint8 IDLE=0
+uint8 FOLLOWING=1
+
+bool request
+---
+uint8 status
